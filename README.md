@@ -8,4 +8,5 @@ Repository of presentations given at conferences
 
 ## 2025:
 
-1. "Unearthing Proprietary Software into Open-Source: Lessons learned from TopoChronia, a QGIS Plugin for Reconstructing Digital Elevation Models of the Last 500 Million Years", Free and Open Source Software for Geospatial (FOSS4G) Europe Conference 2025, Mostar -Bosnia & Herzegovina, 16th July 2025.
+1. "Unearthing Proprietary Software into Open-Source: Lessons learned from TopoChronia, a QGIS Plugin for Reconstructing Digital Elevation Models of the Last 500 Million Years", Free and Open Source Software for Geospatial (FOSS4G) Europe Conference 2025, Mostar - Bosnia & Herzegovina, 16th July 2025.
+2. "Comparing 545 Million Years of Sea-Level Change: New insights from the TopoChronia QGIS Plugin", FOSS4G Europe Conference 2025, Mostar - Bosnia & Herzegovina, 17th July 2025
