@@ -3,8 +3,8 @@ Repository of presentations given at conferences
 
 ## 2024:
 
-1. "Reconstructing the Earth in Deep-Time: A New and Open Framework for the PANALESIS Model", European Geoscience Union (EGU) General Assembly 2024, Vienna - Austria, 15th April 2024.
-2. "Quantified Palaeotopographic & Palaeogeographic Maps for the Phanerozoic with the PANALESIS Plate Tectonic Model", 22th Swiss Geoscience Meeting, Basel - Switzerland, 8th November 2024.
+1. Franziskakis, F. (2024, March 8). Presentation: Reconstructing the Earth in Deep-Time: A New and Open Framework for the PANALESIS Model. European Geosciences Union (EGU) General Assembly 2024, Vienna, Austria. Zenodo. https://doi.org/10.5281/zenodo.13906863
+2. Franziskakis, F. (2024, December 17). Presentation: Quantified Palaeotopographic and Palaeogeographic Global Maps for the Phanerozoic using the PANALESIS Plate Tectonic Model. 22nd Swiss Geoscience Meeting, Basel, Switzerland. Zenodo. https://doi.org/10.5281/zenodo.14505269
 
 ## 2025:
 
